@@ -47,7 +47,6 @@ const defaultMenu = {
 ┬│☂︎ *Database:* %rtotalreg dari %totalreg
 │╰────────────────···
 ╰──────────═┅═──────────
-
 ⃝▣──「 *INFO CMD* 」───⬣
 │ *Ⓟ* = Premium
 │ *Ⓛ* = Limit
@@ -316,8 +315,8 @@ let tek = `✧────···[ Dashboard ]···────✧
 │⬡ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* Pengguna Terbanned
 ┬
 ├━━━━━━━━━━━━━━━━┈─⋆
-│ ▸ *ᴀᴜᴛʜᴏʀ :* ʙᴏᴄʜɪʟɢᴀᴍɪɴɢ
-┴ ▸ *ᴏᴡɴᴇʀ :* 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿
+│ ▸ *ᴀᴜᴛʜᴏʀ :* 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿
+┴ ▸ *ᴏᴡɴᴇʀ :* 𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛
 ✧
 ┬ 📌 𝗣𝗶𝗻𝗻𝗲𝗱 :
 │ ʙᴇʀɪ ᴊᴇᴅᴀ ʏᴀʜ ᴋᴀᴋ ^ω^
@@ -508,7 +507,7 @@ const listMessage = {
 
     surface : 1,
 
-    message: '[❗] Memuat Menu ' + teks + '...\n Hooh Tenan ^ω^', 
+    message: '[❗] Memuat Menu ' + teks + '...\n Sabar Ya Kak ^ω^', 
 
     orderTitle: `▮Menu ▸`,
 
@@ -522,7 +521,7 @@ const listMessage = {
 
     }
 
-    conn.reply(m.chat, '*Hooh tenan . .*', ftrol) 
+    conn.reply(m.chat, '*Tunggu Sebentar Kak. . .*', ftrol) 
 
     
     //------------------< MENU >----------------
