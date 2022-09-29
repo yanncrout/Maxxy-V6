@@ -59,15 +59,15 @@ global.ppulsa = '085295374964' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/MaxxyBotz' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285295374964' //Nomor Bot
-global.nomorown = '6285380166282' //Nomor Owner
-global.namebot = '𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛' //Nama Bot
-global.nameown = '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿' // Nama Owner
+global.nomorbot = '62882022188389' //Nomor Bot
+global.nomorown = '6285656909323' //Nomor Owner
+global.namebot = 'B.T.N' //Nama Bot
+global.nameown = 'Bocah tua nakal' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285380166282', '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿', true] //Ganti jd nomormu sama Namamu
+  ['6285656909323', 'Bocah tua nakal', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,9 +99,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛'
+global.wm = '                「 B.T.N汉  」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘B.T.N˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ B.T.N'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
@@ -370,7 +370,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 global.stickpack = '.'
 global.stickauth = `☂︎\n𝗘\nl\na\ni\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ B.T.N'
 
 global.multiplier = 38 // The higher, The harder levelup
 
