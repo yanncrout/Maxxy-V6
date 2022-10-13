@@ -49,25 +49,25 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/maxxy_ofc' //Link Instagrammu
 global.sgh = 'https://github.com/' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/K6femuL8bLx6HqWS7wXofI'
+global.sgc = 'https://chat.whatsapp.com/LEwtGBIL9fSDc3VmCUsYNJ'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085380166282' //Nomor Danamu
-global.ppulsa = '085295374964' //Nomor SimCard Yang Kamu Pake
+global.pdana = '085657043989' //Nomor Danamu
+global.ppulsa = '085657043989' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/MaxxyBotz' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62882022188389' //Nomor Bot
-global.nomorown = '6285656909323' //Nomor Owner
-global.namebot = 'B.T.N' //Nama Bot
-global.nameown = 'Bocah tua nakal' // Nama Owner
+global.nomorbot = '6285656426913' //Nomor Bot
+global.nomorown = '6285656426913' //Nomor Owner
+global.namebot = 'XOAU YANN MD' //Nama Bot
+global.nameown = 'TOKASAKI YANN'// Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285656909323', 'Bocah tua nakal', true] //Ganti jd nomormu sama Namamu
+  ['6285657043989', 'Tokasaki Yann', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,9 +99,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 B.T.N汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘B.T.N˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ B.T.N'
+global.wm = '                「 XOAU YANN汉  」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘XOAU˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ XIUO'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
